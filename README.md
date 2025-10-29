@@ -13,7 +13,8 @@ This project is a Dialogflow chatbot integrated with a Flask webhook that conver
 
 > Requests – for API calls
 
-HTML <iframe> – to embed the chatbot on a website
+> HTML <iframe> – to embed the chatbot on a website
+
 <img width="1381" height="866" alt="image" src="https://github.com/user-attachments/assets/93fbeb99-16cf-45f8-9f06-a37ac0295759" />
 <img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/1cc99751-a5e7-4d07-bb4d-295e60321e09" />
 
